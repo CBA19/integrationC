@@ -1,8 +1,6 @@
 package tn.esprit.spring.services;
 
 import static org.junit.Assert.assertEquals;
-
-
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
